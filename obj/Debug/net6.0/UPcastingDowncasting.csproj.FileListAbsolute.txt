@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\UPcastingDowncasting\UPcastingDowncasting\obj\Debug\net6.0\UPcastingDowncasting.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\UPcastingDowncasting\UPcastingDowncasting\obj\Debug\net6.0\UPcastingDowncasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\UPcastingDowncasting\UPcastingDowncasting\obj\Debug\net6.0\UPcastingDowncasting.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\UPcastingDowncasting\UPcastingDowncasting\obj\Debug\net6.0\UPcastingDowncasting.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\UPcastingDowncasting\UPcastingDowncasting\obj\Debug\net6.0\UPcastingDowncasting.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\UPcastingDowncasting\UPcastingDowncasting\bin\Debug\net6.0\UPcastingDowncasting.exe
+C:\Users\lenovo\source\repos\UPcastingDowncasting\UPcastingDowncasting\bin\Debug\net6.0\UPcastingDowncasting.deps.json
+C:\Users\lenovo\source\repos\UPcastingDowncasting\UPcastingDowncasting\bin\Debug\net6.0\UPcastingDowncasting.runtimeconfig.json
+C:\Users\lenovo\source\repos\UPcastingDowncasting\UPcastingDowncasting\bin\Debug\net6.0\UPcastingDowncasting.dll
+C:\Users\lenovo\source\repos\UPcastingDowncasting\UPcastingDowncasting\bin\Debug\net6.0\UPcastingDowncasting.pdb
+C:\Users\lenovo\source\repos\UPcastingDowncasting\UPcastingDowncasting\obj\Debug\net6.0\UPcastingDowncasting.dll
+C:\Users\lenovo\source\repos\UPcastingDowncasting\UPcastingDowncasting\obj\Debug\net6.0\refint\UPcastingDowncasting.dll
+C:\Users\lenovo\source\repos\UPcastingDowncasting\UPcastingDowncasting\obj\Debug\net6.0\UPcastingDowncasting.pdb
+C:\Users\lenovo\source\repos\UPcastingDowncasting\UPcastingDowncasting\obj\Debug\net6.0\UPcastingDowncasting.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\UPcastingDowncasting\UPcastingDowncasting\obj\Debug\net6.0\ref\UPcastingDowncasting.dll
